@@ -1,4 +1,4 @@
-# Linguagem Programação 1 - Atividade 06
+# Linguagem Programação 1 - Atividade 07
 
 Aluno: Paulo Sakamoto
 
